@@ -1,0 +1,6 @@
+{
+  "name": "WordPress Development Server",
+  "description": "A barebones WordPress setup",
+  "repository": "https://github.com/KentDalrymple/WordPress_development",
+  "addons": []
+}
